@@ -3,7 +3,7 @@
 🌦️ **WeatherCast** is a modern weather application that provides real-time weather insights and forecasts. Built using Kotlin Multiplatform, it delivers a seamless experience across platforms with an intuitive user interface.
 
 ## Demo video
-[Check out this post on LinkedIn](https://www.linkedin.com/posts/aditya-sharma-474818193_android-jetpackcompose-kotlinmultiplatform-activity-7220825074394624000-Ap53?utm_source=share&utm_medium=member_android)
+[Check out this post on Youtube](https://youtu.be/ulZbpdzO3y4)
 
 ## Features
 
